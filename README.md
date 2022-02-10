@@ -6,7 +6,9 @@
 ---
 
 ### :woman_technologist: About Me :
-- IoT enthusiast
+- 📖 Persuing Artificial Intelligence & Data Science Degree from Pune University
+- 🏆 German (B2, Goethe Certified)
+- 💻 IoT enthusiast
 
 <!--
 **wickedseer/wickedseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
