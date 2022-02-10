@@ -2,10 +2,9 @@
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="180" />
 </div>
 <h2 align="center"> Hi there! </h2>
-
 ---
-
 ### :woman_technologist: About Me :
+
 
 <!--
 **wickedseer/wickedseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
