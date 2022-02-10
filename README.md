@@ -10,6 +10,12 @@
 - 🏆 German (B2, Goethe Certified)
 - 💻 IoT enthusiast
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height="40" width="40" />
+</div>
 <!--
 **wickedseer/wickedseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
