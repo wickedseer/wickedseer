@@ -21,6 +21,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" height="40" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" height="40" width="40" />
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wickedseer&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <!--
 **wickedseer/wickedseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
