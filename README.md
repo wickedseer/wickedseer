@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" />
 </div>
-<h1> Hi there! </h1>
+<h2 align="center"> Hi there! </h2>
 
 <!--
 **wickedseer/wickedseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
