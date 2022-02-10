@@ -3,6 +3,10 @@
 </div>
 <h2 align="center"> Hi there! </h2>
 
+---
+
+### :woman_technologist: About Me :
+
 <!--
 **wickedseer/wickedseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
