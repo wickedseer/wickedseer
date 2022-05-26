@@ -10,8 +10,8 @@
 - 🏆 German (B2, Goethe Certified)
 - 💻 IoT enthusiast
 - 🎂 Cake entrepreneur
-
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ac25a92d-483f-4f27-a341-f0ace81bbe19" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
