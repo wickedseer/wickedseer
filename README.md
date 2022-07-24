@@ -6,8 +6,9 @@
 ---
 
 ### :woman_technologist: About Me :
-- 📖 Pursuing Artificial Intelligence & Data Science Degree from Pune University
-- 🏆 German (B2, Goethe Certified)
+- 🎓 Pursuing Artificial Intelligence & Data Science Degree from [Pune University](http://www.unipune.ac.in/)
+- 👩‍🏫 Foreign language trainer (German) at [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/)
+- 🌐 Microsoft Certified: Azure AI Fundamentals
 - 💻 IoT enthusiast
 - 🎂 Cake entrepreneur
 
