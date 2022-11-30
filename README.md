@@ -1,16 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="180" />
-</div>
-<h2 align="center"> Hi there! </h2>
+<h2 align="center"> Hi, I'm Vridhi Sachdev </h2>
 
 ---
 
 ### :woman_technologist: About Me :
-- 🎓 Pursuing Artificial Intelligence & Data Science Degree from [Pune University](http://www.unipune.ac.in/)
-- 👩‍🏫 Foreign language trainer (German) at [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/)
+- 🎓 Pursuing Artificial Intelligence & Data Science Degree from [Ajeenkya DY Patil School of Engineering](https://dypsoe.in/)
+- 👩‍🏫 German language trainer at [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/)
 - 🌐 Microsoft Certified: Azure AI Fundamentals
+- 📘 IBM Certified: Deep Learning Essentials
 - 💻 IoT enthusiast
-- 🎂 Cake entrepreneur
+
 
 ---
 
