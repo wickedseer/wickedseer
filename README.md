@@ -3,8 +3,8 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🎓 Pursuing Artificial Intelligence & Data Science Degree from [Ajeenkya DY Patil School of Engineering](https://dypsoe.in/)
-- 👩‍🏫 German language trainer at [Multibhashi Solutions Pvt Ltd](https://www.multibhashi.com/)
+- 🎓 Artificial Intelligence & Data Science Grad
+- 👩‍🏫 German language trainer 
 - 🌐 Microsoft Certified: Azure AI Fundamentals
 - 📘 IBM Certified: Deep Learning Essentials
 - 💻 IoT enthusiast
