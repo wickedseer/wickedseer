@@ -1,36 +1,64 @@
-<h2 align="center"> Hi, I'm Vridhi Sachdev </h2>
+<h1 align="center">Hi, I'm Vridhi 👋</h1>
+<h3 align="center">Software Engineering Associate @ Telstra · Building GenAI & MLOps systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+things+that+%28mostly%29+work;Teaching+Deutsch+on+the+side;Certified+drone+pilot%2C+uncertified+bug+fixer" alt="Typing SVG" />
+</p>
 
 ---
 
-### :woman_technologist: About Me :
-- 🎓 Artificial Intelligence & Data Science Grad
-- 👩‍🏫 German language trainer 
-- 🌐 Microsoft Certified: Azure AI Fundamentals
-- 📘 IBM Certified: Deep Learning Essentials
-- 💻 IoT enthusiast
+### 🚀 About Me
+
+- 🔧 I build pipelines for a living — the data kind, not the oil kind, though both leak sometimes
+- 🤖 Currently knee-deep in agentic AI projects, teaching machines to make decisions I still second-guess myself
+- 🎯 On a mission to become an AI Engineer — currently vibe coding my way there
+- 🇩🇪 Also moonlight as a German trainer — fluent in both Deutsch and Python tracebacks
+- 🚁 DGCA certified drone pilot — better at flying than at estimating sprint timelines
+- 😴 Certified lazy — but so were the people who invented automation, so really I'm just doing my part
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedseer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" height="40" width="40" />
-</div>
+### 📫 Let's Connect
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/vridhisachdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vridhi.ritesh.sachdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wickedseer&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wickedseer)](https://github.com/anuraghazra/github-readme-stats) 
-
-
+<p align="center"><i>⭐️ Thanks for stopping by ⭐️</i></p>
